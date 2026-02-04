@@ -1,0 +1,7 @@
+streamlit
+matplotlib.pyplot
+seaborn
+fastf1
+numpy
+gnews
+datetime
