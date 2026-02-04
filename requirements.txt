@@ -1,7 +1,6 @@
 streamlit
-matplotlib.pyplot
+matplotlib
 seaborn
 fastf1
 numpy
 gnews
-datetime
